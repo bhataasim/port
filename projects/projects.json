@@ -1,66 +1,5 @@
 [
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/bhataasim1",
-      "code": "https://github.com/bhataasim1"
-    }
-  },
-  
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
+
   {
     "name": "Bootstrap Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
@@ -72,19 +11,9 @@
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "name": "Crypto Tracker",
+    "desc": "Crypto Currency tracking website.",
+    "image": "cryptotracker",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -92,17 +21,17 @@
     }
   },
   
-  
   {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
+    "name": "React Projects",
+    "desc": "Basic Website in React js. usong HTML, CSS, JS, ReactJS",
+    "image": "reactprojects",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
+  
   {
     "name": "Resistor Color Codes",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
