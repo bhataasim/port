@@ -64,7 +64,7 @@
   {
     "name": "Bootstrap Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "image": "/.assets/images/projects/bootstraptemplate.png",
     "category": "basicweb",
     "links": {
       "view": "#",
