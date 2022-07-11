@@ -1,6 +1,4 @@
 [
-  
-  
   {
     "name": "Web UI Clones",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
@@ -114,8 +112,6 @@
       "view": "#",
       "code": "#"
     }
-  },
-  
-
+  }
 
 ]
