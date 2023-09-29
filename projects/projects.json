@@ -1,45 +1,24 @@
 [
 
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bhataasim.github.io/portfolio/index.html",
+      "code": "https://github.com/bhataasim/portfolio"
+    }
+  },
+
+  {
+    "name": "Bus Tracking System",
+    "desc": "Bus Tracking System for IUST. (University Project)",
+    "image": "bustracking",
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Currency tracking website.",
-    "image": "cryptotracker",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  
-  {
-    "name": "React Projects",
-    "desc": "Basic Website in React js. usong HTML, CSS, JS, ReactJS",
-    "image": "reactprojects",
-    "category": "mern",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "code": "https://github.com/bhataasim1/BusTrackerIUST"
     }
   }
 
