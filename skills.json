@@ -5,11 +5,9 @@
     },
     
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "TailWind CSS",
+        "icon": "https://img.icons8.com/fluency/48/tailwind_css.png"
     },
-    
-    
     
     {
         "name": "Bootstrap",
@@ -27,6 +25,11 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/fluency/48/laravel.png"
     },
     
    
@@ -48,6 +51,15 @@
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/fluency/48/docker.png"
+    },
+
+    {
+        "name": "MetaSploit",
+        "icon": "https://img.icons8.com/fluency/48/metasploit.png"
+    },
     
     {
         "name": "GitHub",
